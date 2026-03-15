@@ -5,8 +5,7 @@ I'm a Senior PM with 7+ years of experience working across regulated and enterpr
 I use GitHub to host assets for my portfolio site and document side projects I build to stay close to the technical side of product work.
 
 **Currently working on:**
-- [curtisblunden.com](https://curtisblunden.com) — personal portfolio and case studies
-- Fintech-adjacent tools built to sharpen my understanding of the problems I work on
+- [Ralley](https://ralley.com.au) — an event management platform for professionals. Discover, host and manage events built around real career value, not just networking for the sake of it.
 
 **Background:**
 - Enterprise SaaS, B2B platform builds, and large-scale platform migrations
